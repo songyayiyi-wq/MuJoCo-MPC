@@ -1,0 +1,117 @@
+[  0%] Copying tasks into binary directory
+[  0%] Built target log_severity
+[  0%] Built target spinlock_wait
+[  0%] Built target lodepng
+[  1%] Built target ccd
+[  1%] Built target tinyxml2
+[  2%] Built target copy_resources
+[  5%] Built target qhullstatic_r
+[  5%] Built target strerror
+[  7%] Built target tinyobjloader
+[ 11%] Built target time_zone
+[ 13%] Built target glfw
+[ 14%] Built target exponential_biased
+[ 14%] Built target int128
+[ 14%] Built target log_internal_nullguard
+[ 16%] Built target civil_time
+[ 16%] Built target random_internal_platform
+[ 16%] Built target random_seed_gen_exception
+[ 17%] Built target flags_commandlineflag_internal
+[ 17%] Built target gtest
+[ 17%] Copying Menagerie and dm_control assets into binary directory
+[ 17%] Built target raw_logging_internal
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/acrobot/acrobot_modified.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/acrobot/acrobot.xml)
+[ 17%] Built target random_internal_randen_hwaes_impl
+[ 31%] Built target mujoco
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/cartpole/cartpole_modified.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/cartpole/cartpole.xml)
+[ 31%] Built target random_internal_randen_slow
+[ 31%] Built target cordz_functions
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/humanoid/humanoid_modified.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/humanoid/humanoid.xml)
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/particle/particle_modified.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/particle/particle.xml)
+[ 31%] Built target gmock
+[ 31%] Built target gtest_main
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/swimmer/swimmer_modified.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/swimmer/swimmer.xml)
+[ 32%] Built target base
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/walker/walker_modified.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/walker/walker.xml)
+[ 32%] Built target platform_ui_adapter
+[ 32%] Built target throw_delegate
+[ 34%] Built target debugging_internal
+[ 34%] Built target demangle_internal
+[ 35%] Built target strings_internal
+[ 35%] Built target string_view
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/allegro/right_hand_modified.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/allegro/right_hand.xml)
+[ 37%] Built target bad_variant_access
+[ 37%] Built target city
+[ 37%] Built target low_level_hash
+[ 37%] Built target bad_optional_access
+[ 37%] Built target crc_cpu_detect
+[ 37%] Built target log_internal_conditions
+[ 37%] Built target random_internal_randen_hwaes
+[ 38%] Built target lqr
+[ 40%] Built target simulation
+[ 40%] Built target threadpool
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/panda/panda_modified.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/panda/panda.xml)
+[ 40%] Built target malloc_internal
+[ 41%] Built target stacktrace
+[ 44%] Built target strings
+[ 46%] Built target crc_internal
+[ 47%] Built target random_internal_randen
+[ 47%] Built target symbolize
+[ 49%] Built target graphcycles_internal
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/quadruped/a1_modified.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/quadruped/a1.xml)
+[ 50%] Built target time
+[ 50%] Built target hash
+[ 50%] Built target examine_stack
+[ 52%] Built target str_format_internal
+[ 52%] Built target log_globals
+[ 52%] Built target log_internal_globals
+[ 53%] Built target log_internal_proto
+[ 55%] Built target random_internal_seed_material
+[ 55%] Built target log_entry
+[ 55%] Built target random_distributions
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/quadrotor/quadrotor_modified.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/quadrotor/quadrotor.xml)
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/common_assets/cube_modified_shadow_reorient.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/common_assets/reorientation_cube.xml)
+[ 56%] Built target flags_marshalling
+[ 56%] Built target load
+[ 56%] Built target flags_commandlineflag
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/rubik/cube_3x3x3_modified.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/rubik/cube_3x3x3.xml)
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/rubik/transition_model.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/rubik/cube_3x3x3.xml)
+[ 56%] Built target log_internal_format
+[ 58%] Built target crc32c
+[ 58%] Built target kernel_timeout_internal
+[ 58%] Built target log_sink
+[ 58%] Built target flags_private_handle_accessor
+[ 58%] Built target random_internal_pool_urbg
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/bimanual/aloha_cartesian.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/bimanual/aloha.xml)
+[ 58%] Built target crc_cord_state
+[ 58%] Built target random_seed_sequences
+[ 61%] Built target synchronization
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/bimanual/mjx_aloha.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/bimanual/aloha.xml)
+[ 62%] Built target hashtablez_sampler
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/bimanual/mjx_scene.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/bimanual/scene.xml)
+Hunk #1 succeeded at 1 with fuzz 1.
+[ 65%] Built target cord_internal
+[ 67%] Built target log_internal_log_sink_set
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/bimanual/mjx_filtered_cartesian_actuators.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/bimanual/filtered_cartesian_actuators.xml)
+[ 67%] Built target cordz_handle
+[ 67%] Built target flags_program_name
+[ 68%] Built target raw_hash_set
+[ 68%] Built target log_internal_message
+[ 68%] Built target cordz_info
+[ 68%] Built target flags_config
+patching file /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/op3/op3_modified.xml (read from /home/bai/mujoco_projects/mujoco_mpc/build/mjpc/tasks/op3/op3.xml)
+[ 70%] Built target log_internal_check_op
+[ 70%] Built target cord
+[ 70%] Built target flags_internal
+[ 70%] Built target copy_model_resources
+[ 71%] Built target flags_reflection
+[ 71%] Built target flags
+[ 71%] Built target flags_usage_internal
+[ 71%] Building CXX object mjpc/CMakeFiles/libmjpc.dir/dashboard.cc.o
+cc1plus: fatal error: /home/bai/mujoco_projects/mujoco_mpc/mjpc/dashboard.cc: 没有那个文件或目录
+compilation terminated.
+gmake[2]: *** [mjpc/CMakeFiles/libmjpc.dir/build.make:832：mjpc/CMakeFiles/libmjpc.dir/dashboard.cc.o] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:6793：mjpc/CMakeFiles/libmjpc.dir/all] 错误 2
+gmake[1]: *** 正在等待未完成的任务....
+[ 71%] Built target flags_usage
+gmake: *** [Makefile:136：all] 错误 2
